@@ -1,0 +1,19 @@
+// This is a test program for comments and structure
+// It demonstrates various operations with integers and floats
+
+int a!
+float b!
+
+// Initialize variables
+a = 10!
+b = 5.0!
+
+// Perform operations
+a = a + 5!
+b = b * 2.0!
+
+// Print results
+print a!
+print b!
+
+// End of program

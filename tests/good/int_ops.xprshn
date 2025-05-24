@@ -1,0 +1,14 @@
+// Test integer operations with literals
+int a!
+int b!
+
+a = 42!
+b = 7!
+
+print a!
+print b!
+
+print a + b!
+print a - b!
+print a * b!
+print a / b! 

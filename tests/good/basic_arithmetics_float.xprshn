@@ -1,0 +1,19 @@
+// float =, +, -, *, /
+float a!
+float b!
+float c!
+
+a = 10.0!
+b = 2.0!
+
+c = a + b!
+print c!
+
+c = a - b!
+print c!
+
+c = a * b!
+print c!
+
+c = a / b!
+print c!

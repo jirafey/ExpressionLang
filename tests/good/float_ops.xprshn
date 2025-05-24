@@ -1,0 +1,14 @@
+// Test float operations with literals
+float a!
+float b!
+
+a = 3.14159!
+b = 2.71828!
+
+print a!
+print b!
+
+print a + b!
+print a - b!
+print a * b!
+print a / b! 

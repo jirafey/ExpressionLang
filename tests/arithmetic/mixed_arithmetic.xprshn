@@ -1,0 +1,15 @@
+// Mixed int/float arithmetic edge cases
+int a!
+float b!
+
+a = 5!
+b = 3.14!
+
+print a + b!
+print b - a!
+print a * b!
+print b / a!
+print a / b!
+a = 0!
+print a + b!
+print b / b!

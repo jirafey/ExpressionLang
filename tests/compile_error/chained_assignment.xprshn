@@ -1,0 +1,4 @@
+// Compile error: chained assignment (if supported)
+int a!
+int b!
+a = b = 5! // Chained assignment 

@@ -1,0 +1,14 @@
+// Integer arithmetic edge cases
+int a!
+int b!
+a = 0!
+b = 123!
+print a + b!
+print a - b!
+print b - a!
+a = 100!
+print a + b!
+print a * b!
+print b / 1!
+print 0 / 1!
+print 1 / 1!

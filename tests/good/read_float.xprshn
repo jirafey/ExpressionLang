@@ -1,0 +1,13 @@
+int a!
+float b!
+
+read a!
+read b!
+
+print a!
+print b!
+
+print a + b!
+print a - b!
+print a * b!
+print a / b!

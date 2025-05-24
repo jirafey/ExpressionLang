@@ -1,0 +1,34 @@
+// Test IF statement with mixed int/float comparisons
+int a!
+float b!
+
+a = 3!
+b = 2.0!
+
+if (a > b)
+    print 1.0!
+
+if (a < b)
+    print 0.0!
+
+if (a == b)
+    print 0.0!
+
+if (a ~= b)
+    print 1.0!
+
+if (a <= b)
+    print 0.0!
+
+if (a >= b)
+    print 1.0!
+
+a = 2!
+if (a == b)
+    print 1.0!
+
+if (a >= b)
+    print 1.0!
+
+if (a <= b)
+    print 1.0!

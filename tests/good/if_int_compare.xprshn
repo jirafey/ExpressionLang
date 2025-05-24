@@ -1,0 +1,33 @@
+// if int
+// >, <, <= lt, >= gt, ~=, ==, <= eq, >= eq, 
+
+int a_int!
+int b_int!
+a_int = 3!
+b_int = 2!
+
+if (a_int > b_int) // 3>2 wieksze.
+	print 1!
+
+if (a_int < b_int) // 3<2 mniejsze?
+	print 0!
+
+if (a_int <= b_int) // 3<=2 mniejsze?
+	print 0!
+
+if (a_int >= b_int) // 3>=2 wieksze.
+	print 1!
+
+if (a_int ~= b_int) // 3~=2 nie rowna sie.
+	print 1!
+
+a_int = 2!
+if (a_int == b_int) // 2==2 rowne.
+	print 1!
+
+if (a_int >= b_int) // 2>=2 rowne.
+	print 1!
+
+if (a_int <= b_int) // 2<=2 rowne.
+	print 1!
+

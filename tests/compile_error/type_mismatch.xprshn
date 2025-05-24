@@ -1,0 +1,5 @@
+// Compile error: type mismatch
+int a!
+float b!
+a = 3.5! // Assigning float to int without conversion
+b = a + 2.5! // Adding int and float, but expecting float assignment 

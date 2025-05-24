@@ -1,0 +1,33 @@
+// Test assignment conversions
+int a!
+float b!
+
+// Float to Int (truncation expected)
+b = 9.99!
+a = b!
+print a! // Expect: 9
+
+b = -3.14!
+a = b!
+print a! // Expect: -3
+
+// Int to Float
+a = 123!
+b = a!
+print b! // Expect: 123.0
+
+a = 5!
+b = a!
+print b!
+
+a = -10!
+b = a!
+print b!
+
+a = 1000!
+b = a!
+print b!
+
+a = 0!
+b = a!
+print b!

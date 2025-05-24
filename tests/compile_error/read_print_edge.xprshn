@@ -1,0 +1,9 @@
+// Compile error: read/print edge cases
+int a!
+float b!
+read a!
+read b!
+print a!
+print b!
+read a!
+print a! 

@@ -1,0 +1,15 @@
+// Test conversions during mixed-type operations
+int a!
+float b!
+
+a = 5!
+b = 3.0!
+
+print a + b!  // int + float
+print b + a!  // float + int
+print a - b!  // int - float
+print b - a!  // float - int
+print a * b!  // int * float
+print b * a!  // float * int
+print a / b!  // int / float
+print b / a!  // float / int

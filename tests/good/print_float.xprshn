@@ -1,0 +1,18 @@
+float a!
+float b!
+float c!
+
+a = 3.0!
+b = 2.0!
+
+print a!
+print b!
+
+c = a + b!
+print c!
+c = a - b!
+print c!
+c = a * b!
+print c!
+c = a / b!
+print c!

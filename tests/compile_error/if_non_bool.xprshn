@@ -1,0 +1,4 @@
+// Compile error: if with non-bool condition
+int a!
+a = 5!
+if (a + 2.5) print a! // Non-bool condition 

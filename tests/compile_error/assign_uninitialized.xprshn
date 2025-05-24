@@ -1,0 +1,4 @@
+// Compile error: assignment from uninitialized variable
+int a!
+int b!
+a = b! // 'b' is uninitialized 

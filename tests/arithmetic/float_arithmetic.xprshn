@@ -1,0 +1,25 @@
+// Float arithmetic edge cases
+float a!
+float b!
+
+a = 3.14!
+b = 2.5!
+
+print a + b!
+print b - a!
+print a * b!
+print b / a!
+
+a = 0.0!
+b = 123.5!
+print a + b!
+print a - b!
+print b - a!
+a = 100.25!
+print a + b!
+print a * b!
+print b / 1.0!
+print 0.0 / 1.0!
+print 1.0 / 1.0!
+print 0.0001 + 0.0002!
+

@@ -1,0 +1,4 @@
+// Compile error: invalid operation
+int a!
+a = 5!
+print a && 3! // Invalid logical operation for int 

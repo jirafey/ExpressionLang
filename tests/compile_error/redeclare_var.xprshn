@@ -1,0 +1,3 @@
+// Compile error: redeclaration of variable
+int a!
+int a! // Redeclaration 

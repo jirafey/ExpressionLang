@@ -1,0 +1,3 @@
+// Compile error: assignment from undeclared variable
+int a!
+a = b! // 'b' is undeclared 

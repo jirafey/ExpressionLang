@@ -1,0 +1,18 @@
+// float to int conversion edge cases
+float a!
+a = 0.0!
+int b!
+b = a!
+print b!
+a = -12345.75!
+b = a!
+print b!
+a = 2147483647.0!
+b = a!
+print b!
+a = 3.99!
+b = a!
+print b!
+a = -0.99!
+b = a!
+print b! 

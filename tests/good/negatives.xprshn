@@ -1,0 +1,16 @@
+int a!
+float b!
+
+a = -5!
+b = -3.14!
+
+print a!
+print b!
+
+print -10!
+print -2.5!
+
+print a + b!
+print b - a!
+print a * b!
+print b / a! 

@@ -1,0 +1,24 @@
+// int to float conversion edge cases
+int a!
+float b!
+// zero
+ a = 0!
+ b = a!
+ print b!
+// negative
+ a = -12345!
+ b = a!
+ print b!
+// large positive
+ a = 2147483647!
+ b = a!
+ print b!
+// large negative
+ a = -2147483648!
+ b = a!
+ print b!
+// chained assignment
+ a = 42!
+ b = a!
+ a = -1!
+ print b! 
